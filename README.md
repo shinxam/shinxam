@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shinxam
+- 👀 I’m interested in HTML
+- 🌱 I’m currently learning CSS
